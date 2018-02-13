@@ -7,3 +7,5 @@ one more line adding in master
 adding one more line to branch
 
 i am doing dummy commit
+
+removing the code change
